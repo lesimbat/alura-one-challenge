@@ -38,4 +38,4 @@ Por exemplo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/scppuna/desafio-one-decodificador.git
+   git clone https://github.com/lesimbat/allura-one-challenge.git
